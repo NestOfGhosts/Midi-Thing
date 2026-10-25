@@ -1,0 +1,9 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Switches,50,Amazon,$0.08,$4.00,https://www.amazon.ca/gp/product/B0GVSBNSHM?smid=&psc=1
+Keycaps,24,Amazon,$0.41,$9.84,https://www.amazon.ca/Mechkeeb-Profile-Switches-Keyboard-Replacement/dp/B0BWDTBF1L?crid=17D24DACDDXK7&dib=eyJ2IjoiMSJ9.QgzrbHYNnySbWz_C8JOt7rSGQp54UpmJIuUW7RZGzSMhlxsqRpD4ByujW6NLF5VClUPdJ7uM4nQ8F1Wo1ICEtZLIsUh5DFbeM6mQrp3peg8PTgZnUxkqFvN2t2KJmAUsvgxP33V13MaYIHIlzXmSsfT07KRJhDBgixe5str7y4PYlFrjQzKIyweJUwUIdNhgg6qZyp8ZMlW65B0i-uvvX06MY4sBke1bJfpvTXwIA8cM7RHbJqhZMl9JY1I73jYi5AkKh6-AJLnbDJc98ZBc_Pu7R-gI93cZwj5XZ4giP6E.ocRhOoAWpWF7jiiZ7ZU1jz1r0Lgcl5A6FctMVWPJO_U&dib_tag=se&keywords=10%2Bpack%2Bkeycaps&qid=1792860838&refinements=p_76%3A3276484011&rnid=3276483011&rps=1&s=electronics&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=10%2Bpack%2Bkeycaps%2Celectronics%2C151&sr=1-12&th=1
+Round Potentiometer,1,Mouser,$4.53,$4.53,https://www.mouser.ca/en/ProductDetail/Alpha-Taiwan/RD901F-40-15R1-B100K-00DL1?qs=1mbolxNpo8czbLgndpJJVQ%3D%3D
+Long Potentiometer,1,Mouser,$2.13,$2.13,https://www.mouser.ca/en/ProductDetail/652-PTA3432010CIB103
+Teensy 4.0,1,Amazon,$27.22,$27.22,https://www.amazon.ca/gp/product/B07W5J3WNH?smid=A33HV3N1GS7LPU&psc=1
+Audio shield for Teensy,1,Amazon,$17.37,$17.37,https://www.amazon.ca/gp/product/B07Z6NW913?smid=A33HV3N1GS7LPU&psc=1
+PCB,5,JLCPCB,$2.06,$10.30,https://jlcpcb.com
+Estimated total shipping,1,,,$42.68,
