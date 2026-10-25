@@ -42,7 +42,7 @@ Should work now. I dunno dude rn im not done coding yet so i dunno exact process
 
 ## Optional stuff
 
-- Modify the code by copying [midee](https://github.com/NestOfGhosts/Midee) and recompiling with platformIO
+- Modify the code by copying [midee](https://github.com/NestOfGhosts/Midee) and recompiling with platformIO. Most things can be changed using [config.h](https://github.com/NestOfGhosts/Midee/blob/master/include/config.h)
 
 - Print the [holder](https://github.com/NestOfGhosts/Midi-Thing/tree/main/holder)
 
